@@ -88,7 +88,7 @@ There are also a few "flavors" of `conda`, that differ mostly in the underlying 
 
 *Note*: `conda` and `pip` do not play nice together; try to avoid using them in the same environment. If you must use both (for example, because they have access to different packages), best practice is to finish all `conda` installs, and use `pip` only at the end.
 
-More recent tools like `poetry` improve on usability and robustness, and try to slant towards *project* management instead of just *package* management.
+More recent tools like `uv` and `poetry` improve on usability and robustness, and try to slant towards *project* management instead of just *package* management.
 
 ## Using `pip` and `venv`
 
