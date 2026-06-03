@@ -7,7 +7,7 @@ Materials for the Carney Institute's 2026 Computational Fluency Short Course. Mu
 ### Course materials
 
 - Slides
-  - Will be updated as sessions occur
+  - [Introduction](slides/CFSC_2026_Introduction_slides.pdf)
 - Exercises
   - Will be updated as sessions occur
 - Short notes for reference
