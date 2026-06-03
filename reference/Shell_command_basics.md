@@ -4,7 +4,7 @@ It's easy to be overwhelmed by the cryptic names and sophistication of a shell's
 
 One source of help is the `man` command ("manual"). For example, typing `man ls` will print help pages for the list command. The web also provides many instructions and examples.
 
-Details also vary across different types of shells (`bash`, `zsh`, `tcsh`, `powershell`, and many more...). Everything below assumes a Linux-like or Mac command line, but there are analogous versions of working in a Windows shell (usually PowerShell).
+Details also vary across different types of shells (`bash`, `zsh`, `tcsh`, `powershell`, and many more...). The below assumes a Linux-like or Mac command line, but there are analogous versions of working in a Windows shell (usually PowerShell), for example [PowerShell cheat sheet](https://gist.github.com/pcgeek86/336e08d1a09e3dd1a8f0a30a9fe61c8a) or  [bash/PS cheat sheet](https://blog.ironmansoftware.com/daily-powershell/bash-powershell-cheatsheet/) (both found via quick web search; not endorsed as accurate.
 
 ### A bit about command line arguments
 
