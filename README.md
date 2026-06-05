@@ -11,6 +11,7 @@ Materials for the Carney Institute's 2026 Computational Fluency Short Course. Mu
   - [Architecture and Interfaces](slides/CFSC_2026_Interfaces_slides.pdf)
   - [Filesystems](slides/CFSC_2026_Filesystems_slides.pdf)
 - Activities
+  - [VS Code interfaces](activities/interfaces/README.md)
   - [Paths exercise](activities/paths_exercise/README.md)
 - Short notes for reference
   - [Installation notes](reference/Installation_notes.md)
