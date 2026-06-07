@@ -12,7 +12,7 @@ Materials for the Carney Institute's 2026 Computational Fluency Short Course. Mu
   - [Filesystems](slides/CFSC_2026_Filesystems_slides.pdf)
 - Activities
   - [VS Code interfaces](activities/interfaces/README.md)
-  - [Paths exercise](activities/paths_exercise/README.md)
+  - [Paths exercise](activities/paths_exercise/README.md), and [completed example](activities/paths_exercise/completed_activity/load_rank_data.py)
 - Short notes for reference
   - [Installation notes](reference/Installation_notes.md)
   - [Shell command basics](reference/Shell_command_basics.md)
