@@ -6,8 +6,8 @@ Your task is to get the notebook to run, and produce two figures: one of neural 
 
 - Create a new project directory 
 - Inside that directory, create two new subdirectories, `notebooks` and `utils`
-- Download (hh_model.py)[hh_model.py] into `utils`
-- Download (hh_simulation.ipynb)[hh_simulation.ipynb] inot `notebooks`
+- Download [hh_model.py](hh_model.py) into `utils`
+- Download [hh_simulation.ipynb](hh_simulation.ipynb) inot `notebooks`
 - Look through both files and determine what packages they use
 - Create a virtual environment and install these packages
   - If using pip:
