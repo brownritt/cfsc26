@@ -17,6 +17,7 @@ Materials for the Carney Institute's 2026 Computational Fluency Short Course. Mu
   - [Paths exercise](activities/paths_exercise/README.md), and [completed example](activities/paths_exercise/completed_activity/load_rank_data.py)
   - [Command paths](activities/command_paths/README.md), and [completed example](activities/command_paths/completed_activity/README.md)
   - [Collaborative git](https://github.com/brownritt/cfsc26-collaboration/tree/main)
+  - [Troubleshooting](https://github.com/brownritt/cfsc26-debug-exercise)
 - Short notes for reference
   - [Installation notes](reference/Installation_notes.md)
   - [Shell command basics](reference/Shell_command_basics.md)
